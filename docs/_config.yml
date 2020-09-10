@@ -55,7 +55,7 @@ plugins:
 #   - vendor/ruby/
 
 
-logo: "/assets/images/rau_logo.png"
+logo: "/assets/images/rau_logo_transparent.png"
 search_enabled: true
 
 search:
