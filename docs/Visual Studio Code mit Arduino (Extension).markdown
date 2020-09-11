@@ -7,9 +7,8 @@ parent: Software-Konfiguration
 permalink: /Visual Studio Code mit Arduino (Extension)/
 ---
 
-# 1.Software Requirements
-# 2. Visual Studio Code mit Arduino (Extension)
-# 3. Arduino IDE
+# Visual Studio Code mit Arduino (Extension)
+
 
 4. Item 1
 5. Item 2
