@@ -3,7 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Home
+nav_order: 2
+has_children: true
 ---
-
 DAB-Radio v2.0
 

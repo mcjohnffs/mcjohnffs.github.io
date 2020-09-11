@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Hub
+parent: Home
 permalink: /hub/
 ---
 
