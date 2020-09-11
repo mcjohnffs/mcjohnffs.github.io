@@ -9,7 +9,19 @@ permalink: /Software-Konfiguration/
 # Software Konfiguration
 {: .d-inline-block }
 ## Übersicht
-{: .d-inline-block }
+Die Software besteht aus folgenden Komponenten:
+
+- Basis Code in C++
+- Hardware API per <Arduino-ESP32 Core>
+- Integriertes Echtzeitbetriebssystem im Core (FreeRTOS)
+- GUI per GuiSlice Library
+- Menübedienung über Touch-Funktion des Displays oder per Eingabe von Buttons und Encoder
+- Statusanzeigen über addresierbare RGB-Leds
+- Steuerung der weiteren Module des DAB-Radios
+---Bluetooth Modul(UART), Sound Prozessor(I2C), Charger-Board(I2C) und Fuel Gauge(I2C)
+
+- inkl. erweiterbare I/O's per Port Expander (MCP23017 - I2C)
+
 ## Requirements
 {: .d-inline-block }
 - Visual Studio Code mit Arduino Extension [Link button](https://code.visualstudio.com/){: .btn } oder Arduino IDE[Link button](https://www.arduino.cc/en/main/software){: .btn }
