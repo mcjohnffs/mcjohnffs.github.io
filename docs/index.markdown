@@ -4,7 +4,7 @@
 
 layout: home
 title: Home
-nav_order: 2
+nav_order: 1
 has_children: true
 ---
 DAB-Radio v2.0
