@@ -7,7 +7,7 @@ permalink: /Software-Konfiguration/
 ---
 
 # Software Konfiguration
-{: .d-inline-block }
+
 ## Übersicht
 Die Software besteht aus folgenden Komponenten:
 
@@ -23,6 +23,6 @@ Die Software besteht aus folgenden Komponenten:
 - inkl. erweiterbare I/O's per Port Expander (MCP23017 - I2C)
 
 ## Requirements
-{: .d-inline-block }
+
 - Visual Studio Code mit Arduino Extension [Link button](https://code.visualstudio.com/){: .btn } oder Arduino IDE[Link button](https://www.arduino.cc/en/main/software){: .btn }
 
