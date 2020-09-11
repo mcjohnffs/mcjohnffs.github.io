@@ -89,7 +89,7 @@ search:
 heading_anchors: true
   # Footer content 
 # appears at the bottom of every page's main content
-footer_content: "Copyright &copy; 2020 Egzon Isaku.<a href=\"https://www.r-au.ch\">Regionales Ausbildungszentrum Au (RAU)</a>"
+footer_content: "Erstellt von Egzon Isaku (Lernender Automatikmonteur - 3.Lehrjahr) - Copyright &copy; 2020 .<a href=\"https://www.r-au.ch\"> im Regionalen Ausbildungszentrum in Au (RAU)</a>"
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
