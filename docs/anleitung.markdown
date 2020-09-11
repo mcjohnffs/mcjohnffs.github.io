@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Anleitung
-parent: Home
 nav_order: 3
 permalink: /anleitung/
 ---
