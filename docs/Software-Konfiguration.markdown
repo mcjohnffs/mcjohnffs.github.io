@@ -13,6 +13,4 @@ permalink: /Software-Konfiguration/
 ## Requirements
 {: .d-inline-block }
 - Visual Studio Code mit Arduino Extension [Link button](https://code.visualstudio.com/){: .btn } oder Arduino IDE[Link button](https://www.arduino.cc/en/main/software){: .btn }
-- Item 2
-- Item 3
 
