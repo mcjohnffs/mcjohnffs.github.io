@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Anleitung
+title: Inbetriebnahme
 nav_order: 3
-permalink: /anleitung/
+permalink: /Inbetriebnahme/
 ---
 
 1. Software Requirements
