@@ -1,4 +1,4 @@
-<h1 id="software-requirements">Software Requirements</h1>
+I"Ù<h1 id="software-requirements">Software Requirements</h1>
 
 <p>Die Software kann entweder in der Arduino IDE oder in Visual Studio Code bearbeitet und kompiliert werden.</p>
 
@@ -21,3 +21,4 @@
 <p>-<a href="https://code.visualstudio.com/download">Visual Studio Code Software</a></p>
 
 <p>-Marketplace Link <a href="https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino">VSC Arduino Extension</a></p>
+:ET

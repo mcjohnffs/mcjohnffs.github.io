@@ -1,4 +1,4 @@
-<h1 id="software-requirements">Software Requirements</h1>
+I"�<h1 id="software-requirements">Software Requirements</h1>
 
 <p>Die Software kann entweder in der Arduino IDE oder in Visual Studio Code bearbeitet und kompiliert werden.</p>
 
@@ -8,9 +8,8 @@
 
 <p>Damit sich der ESP32-Mikrocontroller mit der Arduino Umgebung versteht, wird hierzu der dafür vom Hersteller entwickelte Core für die Arduino Umgebung benötigt.</p>
 
-<p>-<a href="http://www.arduino.cc/en/main/software">Arduino IDE Software</a> ab Version 1.8.X</p>
-
-<p>-<a href="https://github.com/espressif/arduino-esp32/blob/master/docs/arduino-ide/boards_manager.md">Arduino ESP32 Core</a></p>
+<p>-<a href="http://www.arduino.cc/en/main/software">Arduino IDE Software</a> ab Version 1.8.X
+-<a href="https://github.com/espressif/arduino-esp32/blob/master/docs/arduino-ide/boards_manager.md">Arduino ESP32 Core</a></p>
 
 <h2 id="visual-studio-code-mit-arduino-extension">Visual Studio Code mit Arduino (Extension)</h2>
 
@@ -21,3 +20,4 @@
 <p>-<a href="https://code.visualstudio.com/download">Visual Studio Code Software</a></p>
 
 <p>-Marketplace Link <a href="https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino">VSC Arduino Extension</a></p>
+:ET
