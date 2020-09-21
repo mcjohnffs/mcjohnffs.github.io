@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Software-Konfiguration
-nav_order: 4
-has_children: true
+title: 1. Software-Konfiguration
+nav_order: 2
 permalink: /Software-Konfiguration/
 ---
 
@@ -18,11 +17,16 @@ Die Software besteht aus folgenden Komponenten:
 - Menübedienung über Touch-Funktion des Displays oder per Eingabe von Buttons und Encoder
 - Statusanzeigen über addresierbare RGB-Leds
 - Steuerung der weiteren Module des DAB-Radios
----Bluetooth Modul(UART), Sound Prozessor(I2C), Charger-Board(I2C) und Fuel Gauge(I2C)
+---Bluetooth Modul(UART), 
+---Sound Prozessor(I2C), 
+---Charger-Board(I2C),
+---Fuel Gauge(I2C)
 
 - inkl. erweiterbare I/O's per Port Expander (MCP23017 - I2C)
 
-## Requirements
+## Requirements 
 
-[Visual Studio Code](https://mcjohnffs.github.io/Visual%20Studio%20Code%20mit%20Arduino%20(Extension)/){: .btn .btn-purple } oder [Arduino](https://mcjohnffs.github.io/Arduino%20IDE/){: .btn .btn-blue }
+[Software Requirements](https://mcjohnffs.github.io/Visual%20Studio%20Code%20mit%20Arduino%20(Extension)/){: .btn .btn-purple }
+
+
 

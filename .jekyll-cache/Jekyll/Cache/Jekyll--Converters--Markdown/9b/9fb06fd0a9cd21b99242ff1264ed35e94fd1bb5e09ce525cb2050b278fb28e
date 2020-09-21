@@ -1,4 +1,4 @@
-<h1 id="software-konfiguration">Software Konfiguration</h1>
+I"	<h1 id="software-konfiguration">Software Konfiguration</h1>
 
 <h2 id="übersicht">Übersicht</h2>
 <p>Die Software besteht aus folgenden Komponenten:</p>
@@ -12,15 +12,13 @@
   <li>Statusanzeigen über addresierbare RGB-Leds</li>
   <li>
     <p>Steuerung der weiteren Module des DAB-Radios
-—Bluetooth Modul(UART), 
-—Sound Prozessor(I2C), 
-—Charger-Board(I2C),
-—Fuel Gauge(I2C)</p>
+—Bluetooth Modul(UART), Sound Prozessor(I2C), Charger-Board(I2C) und Fuel Gauge(I2C)</p>
   </li>
   <li>inkl. erweiterbare I/O’s per Port Expander (MCP23017 - I2C)</li>
 </ul>
 
 <h2 id="requirements">Requirements</h2>
 
-<p><a href="https://mcjohnffs.github.io/Visual%20Studio%20Code%20mit%20Arduino%20(Extension)/" class="btn btn-purple">Software Requirements</a></p>
+<p><a href="https://mcjohnffs.github.io/Visual%20Studio%20Code%20mit%20Arduino%20(Extension)/" class="btn btn-purple">Visual Studio Code</a> ### oder <a href="https://mcjohnffs.github.io/Arduino%20IDE/" class="btn btn-blue">Arduino</a></p>
 
+:ET
