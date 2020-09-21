@@ -1,4 +1,4 @@
-<h1 id="software-requirements">Software Requirements</h1>
+I"|<h1 id="software-requirements">Software Requirements</h1>
 
 <p>Die Software kann entweder in der Arduino IDE oder in Visual Studio Code bearbeitet und kompiliert werden.</p>
 
@@ -30,4 +30,5 @@
 
 <h4 id="arduino-extension">Arduino Extension</h4>
 
-<h3 id="kompilieren-und-flashen-in-visual-studio-code">Kompilieren und Flashen in Visual Studio Code</h3>
+<h3 id="kompilieren-und-flashen-in-der-arduino-ide-1">Kompilieren und Flashen in der Arduino IDE</h3>
+:ET

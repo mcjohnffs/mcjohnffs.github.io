@@ -1,18 +1,11 @@
 ---
 layout: default
-title: 1. Software-Konfiguration
+title: 1. Hard- und Software Konfiguration
 nav_order: 2
-permalink: /Software-Konfiguration/
+permalink: /Hard- und Software Knfiguration/
 ---
 
-# Soft- und Hardware Konfiguration
-
-## Software
-
-- Basis Code in C++ (Arduino)
-- Hardware API per <Arduino-ESP32 Core>
-- Integriertes Echtzeitbetriebssystem im Core (FreeRTOS)
-- GUI per GuiSlice Library
+# Hard- und Software Konfiguration
 
 ## Hardware
 
@@ -24,3 +17,13 @@ permalink: /Software-Konfiguration/
     - Charger-Board(I2C)
     - Fuel Gauge(I2C)
 - inkl. erweiterbare I/O's per Port Expander (MCP23017 - I2C)
+
+
+## Software
+
+- Basis Code in C++ (Arduino)
+- Hardware API per Arduino ESP32 Core
+- Integriertes Echtzeitbetriebssystem im Core (FreeRTOS)
+- GUI per GuiSlice Arduino Library
+
+

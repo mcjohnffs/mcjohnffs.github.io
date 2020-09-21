@@ -1,14 +1,11 @@
-<h1 id="quellen">Quellen</h1>
+I"<h1 id="quellen">Quellen</h1>
+<p>TO DO</p>
 
-<p>Hier befinden sich Links und weitere Angaben der verwendeten Quellen für die Entwicklung der ersten Testsoftware.</p>
-
-<h2 id="software">Software</h2>
-
-<h3 id="arduino-esp32-core">Arduino ESP32 Core</h3>
+<h2 id="arduino-esp32-core">Arduino ESP32 Core</h2>
 
 <p>-<a href="https://github.com/espressif/arduino-esp32">Arduino ESP32 Core</a></p>
 
-<h3 id="guislice">GUIslice</h3>
+<h2 id="guislice">GUIslice</h2>
 
 <p>-<a href="https://github.com/ImpulseAdventure/GUIslice">Guislice</a></p>
 
@@ -16,5 +13,4 @@
 
 <p>-<a href="https://github.com/ImpulseAdventure/GUIslice/wiki/Builder-_-Walkthrough">Guislice Walkthrough</a></p>
 
-<h2 id="hardware">Hardware</h2>
-
+:ET

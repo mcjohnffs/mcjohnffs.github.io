@@ -20,6 +20,9 @@ Damit sich der ESP32-Mikrocontroller mit der Arduino Umgebung versteht, wird hie
 
 -[Arduino ESP32 Core](https://github.com/espressif/arduino-esp32/blob/master/docs/arduino-ide/boards_manager.md)
 
+### Konfiguration der Arduino IDE
+
+### Kompilieren und Flashen in der Arduino IDE
 
 ## Visual Studio Code mit Arduino (Extension)
 
@@ -31,3 +34,9 @@ Um die Entwicklung per Arduino Umgebung zu ermöglichen wird eine zusätzliche E
 -[Visual Studio Code Software](https://code.visualstudio.com/download)
 
 -Marketplace Link [VSC Arduino Extension](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino)
+
+### Konfiguration von Visual Studio Code
+
+#### Arduino Extension
+
+### Kompilieren und Flashen in Visual Studio Code

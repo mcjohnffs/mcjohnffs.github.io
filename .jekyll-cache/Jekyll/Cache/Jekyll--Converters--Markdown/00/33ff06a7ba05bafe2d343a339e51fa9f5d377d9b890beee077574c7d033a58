@@ -1,0 +1,27 @@
+I"#<h1 id="soft--und-hardware-konfiguration">Soft- und Hardware Konfiguration</h1>
+
+<h2 id="software">Software</h2>
+
+<ul>
+  <li>Basis Code in C++ (Arduino)</li>
+  <li>Hardware API per Arduino ESP32 Core</li>
+  <li>Integriertes Echtzeitbetriebssystem im Core (FreeRTOS)</li>
+  <li>GUI per GuiSlice Library</li>
+</ul>
+
+<h2 id="hardware">Hardware</h2>
+
+<ul>
+  <li>Menübedienung über Touch-Funktion des Displays oder per Eingabe von Buttons und Encoder</li>
+  <li>Statusanzeigen über addresierbare RGB-Leds</li>
+  <li>Steuerung der weiteren Module des DAB-Radios
+    <ul>
+      <li>Bluetooth Modul(UART)</li>
+      <li>Sound Prozessor(I2C)</li>
+      <li>Charger-Board(I2C)</li>
+      <li>Fuel Gauge(I2C)</li>
+    </ul>
+  </li>
+  <li>inkl. erweiterbare I/O’s per Port Expander (MCP23017 - I2C)</li>
+</ul>
+:ET
