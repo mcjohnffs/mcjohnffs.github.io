@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Arduino IDE
 nav_order: 3
 

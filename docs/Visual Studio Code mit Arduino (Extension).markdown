@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Visual Studio Code mit Arduino (Extension)
 nav_order: 3
 
