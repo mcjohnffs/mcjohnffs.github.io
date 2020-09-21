@@ -25,5 +25,7 @@ Damit sich der ESP32-Mikrocontroller mit der Arduino Umgebung versteht, wird hie
 
 Um die Entwicklung per Arduino Umgebung zu ermöglichen wird eine zusätzliche Extension benötigt. Diese kann direkt in der Software-Umgebung oder per Marketplace Link installiert werden.
 
--[Visual Studio Code Software](https://code.visualstudio.com/download)
--Marketplace Link [VSC Arduino Extension](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino)
+-[Visual Studio Code Software]
+(https://code.visualstudio.com/download)
+-Marketplace Link [VSC Arduino Extension]
+(https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino)
