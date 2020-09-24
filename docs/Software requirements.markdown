@@ -26,7 +26,7 @@ Damit sich der ESP32-Mikrocontroller mit der Arduino Umgebung versteht, wird hie
 
 1. Arduino IDE starten und im Menütab "File" -> "Preferences" bzw. "Einstellungen" öffnen
 
-![Prefrences](https://github.com/mcjohnffs.github.io/docs/assets/images/preferences.png)
+![GitHub Logo](/assets/images/preferences.png)
 
 ### Konfiguration der Arduino IDE
 
