@@ -1,11 +1,11 @@
 ---
 layout: default
-title: 2. Software Requirements
+title: 2. Installation der Entwicklungsumgebung
 nav_order: 3
-permalink: /Software Requirements/
+permalink: /Installation der Entwicklungsumgebung/
 ---
 
-# Software Requirements
+# Installation der Entwicklungsumgebung
 
 Die Software kann entweder in der Arduino IDE oder in Visual Studio Code bearbeitet und kompiliert werden.
 
