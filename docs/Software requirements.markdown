@@ -25,6 +25,7 @@ Damit sich der ESP32-Mikrocontroller mit der Arduino Umgebung versteht, wird hie
 ### Installation des Arduino ESP32 Core
 
 1. Arduino IDE starten und im Menütab "File" -> "Preferences" öffnen.
+
 ![Ard_1](/assets/images/preferences.png)
 
 2. Bei "Additional Boards Manager URLs" den Link zum Core Release einfügen -> 
