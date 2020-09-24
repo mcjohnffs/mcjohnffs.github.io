@@ -45,6 +45,7 @@ Anschliessend öffnet sich der "Boards Manager". Im Suchfenster "ESP32" suchen u
 
 ### Voraussetzungen
 
+
 Arduino IDE inkl. ESP32 Arduino Core muss als erstes installiert werden um das Kompilieren und Uploaden von Arduino Code mit der Extension in Visual Studio Code zu ermöglichen.
 {: .label .label-red }
 
