@@ -22,6 +22,12 @@ Die Software kann entweder in der Arduino IDE oder in Visual Studio Code bearbei
 
 Damit sich der ESP32-Mikrocontroller mit der Arduino Umgebung versteht, wird hierzu der dafür vom Hersteller entwickelte Core für die Arduino Umgebung benötigt.
 
+### Installation des Arduino ESP32 Core
+
+1. Arduino IDE starten und im Menütab "File" -> "Preferences" bzw. "Einstellungen" öffnen
+
+![alt text](https://github.com/[mcjohnffs]/[mcjohnffs.github.io]/blob/[gh-pages]/docs/assets/images/preferences.jpg?raw=true)
+
 ### Konfiguration der Arduino IDE
 
 ### Kompilieren und Flashen in der Arduino IDE
