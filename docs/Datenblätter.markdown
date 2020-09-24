@@ -1,37 +1,11 @@
 ---
 layout: default
-title: 4. Quellen
-nav_order: 4
-permalink: /Quellen/
+title: 5. Datenblätter
+nav_order: 5
+permalink: /Datenblätter/
 ---
 
-# Quellen
-
-Hier befinden sich Links und weitere Angaben der verwendeten Quellen für die Entwicklung der ersten Testsoftware.
-
-## Software
-
-### Arduino ESP32 Core
-
--[Arduino ESP32 Core](https://github.com/espressif/arduino-esp32)
-
-### GUIslice
-
--[Guislice](https://github.com/ImpulseAdventure/GUIslice)
-
--[Guislice Builder](https://github.com/ImpulseAdventure/GUIslice/wiki/GUIslice-Builder)
-
--[Guislice Walkthrough](https://github.com/ImpulseAdventure/GUIslice/wiki/Builder-_-Walkthrough)
-
-## Hardware
-
-### ESP Ressourcen
-
--[ESP32-Allgemein](https://randomnerdtutorials.com/esp32-pinout-reference-gpios/)
-
--[ESP32-PWM](https://circuits4you.com/2018/12/31/esp32-pwm-example/)
-
-### Datenblätter
+# Datenblätter
 
 -[ESP32](https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf)
 
@@ -50,6 +24,7 @@ Hier befinden sich Links und weitere Angaben der verwendeten Quellen für die En
 -[TFT 2.8" Display - ILI9341](https://www.buydisplay.com/download/manual/ER-TFTM028-4_Datasheet.pdf)
 
 -[Touch Controller - FT6206 (in Display integriert)](https://www.buydisplay.com/download/manual/ER-TFTM028-4_Datasheet.pdf)
+
 
 
 
