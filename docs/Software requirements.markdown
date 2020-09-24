@@ -55,8 +55,8 @@ Um die Entwicklung per Arduino Umgebung zu ermöglichen wird eine zusätzliche E
 
 
 Wichtig
-{: .label .label-red } 
-Installation von Arduino IDE inkl. ESP32 Arduino Core muss als erstes installiert werden um das Kompilieren und Uploaden von Arduino Code mit der Extension in Visual Studio Code zu ermöglichen.
+{: .label .label-red } Installation von Arduino IDE inkl. ESP32 Arduino Core muss als erstes installiert werden um das Kompilieren und Uploaden von Arduino Code mit der Extension in Visual Studio Code zu ermöglichen.
+
 
 
 ### Konfiguration der Arduino Extension
