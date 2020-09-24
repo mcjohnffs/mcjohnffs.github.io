@@ -26,7 +26,23 @@ Damit sich der ESP32-Mikrocontroller mit der Arduino Umgebung versteht, wird hie
 
 1. Arduino IDE starten und im Menütab "File" -> "Preferences" bzw. "Einstellungen" öffnen
 
-![GitHub Logo](/assets/images/preferences.png)
+![Ard_1](/assets/images/preferences.png)
+
+2. Bei "Additional Boards Manager URLs" den Link zum Core Release einfügen -> https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+
+![Ard_2](/assets/images/Corelink.png)
+
+    Anschliessend auf "OK" klicken und das Menü verlassen.
+
+3. Im Menütab "Tools" auf "Board:...." gehen und dann "Boards Manager" klicken.
+
+![Ard_3](/assets/images/boardsmanager.png)
+
+    Anschliessend öffnet sich der "Boards Manager". Im Suchfenster "ESP32" suchen und installieren.
+
+![Ard_3_1](/assets/images/boardsinstall.png)
+
+
 
 ### Konfiguration der Arduino IDE
 
