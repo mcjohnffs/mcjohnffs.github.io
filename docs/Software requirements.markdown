@@ -37,7 +37,7 @@ Anschliessend auf "OK" klicken und das Menü verlassen.
 
 Anschliessend öffnet sich der "Boards Manager". Im Suchfenster "ESP32" suchen und installieren.![Ard_3_1](/assets/images/boardsinstall.png)
 
-* Unter "Tools/Board:..." auf "ESP32 Arduino" gehen und "ESP32 Dev Module" auswählen. Nun ist das Board ausgewählt und für Kompilierung und Upload bereit.
+* Unter "Tools/Board:..." auf "ESP32 Arduino" gehen und "ESP32 Dev Module" auswählen. Nun ist das Board mit den dazugehörigen Einstellungen ausgewählt und für Kompilierung und Upload bereit.
 
 ### Kompilieren und Flashen in der Arduino IDE
 
@@ -58,9 +58,5 @@ Um die Entwicklung per Arduino Umgebung zu ermöglichen wird eine zusätzliche E
 
 
  
-
-
-
-### Konfiguration der Arduino Extension
 
 ### Kompilieren und Flashen in Visual Studio Code
