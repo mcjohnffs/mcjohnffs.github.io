@@ -1,6 +1,7 @@
 site_name: DAB V2.0
 site_url: https://mcjohnffs.github.io/
-
+theme:
+    name: readthedocs
 markdown_extensions:
     - admonition
 nav:
